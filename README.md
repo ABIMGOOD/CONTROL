@@ -112,7 +112,7 @@ This allows further analysis using tools like:
 Clone the repository:
 
 ```
-git clone 
+git clone https://github.com/ABIMGOOD/CONTROL.git
 cd 
 ```
 
