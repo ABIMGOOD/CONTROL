@@ -1,3 +1,10 @@
+#Aclosed-loopcontrolsystemwithnegativefeedbackhasafeedbacktransferfunctionof0.1andaforwardpathtransfer functionof (a)50, (b)5. 
+# Whatwillbetheeffectofachange intheforwardpathtransfer functiono       fanincreaseby
+# 10%?, so i have been to solve this mathematically, but i want to try it practically with the control library in python
+
+
+
+
 import control as ctrl
 import numpy as np
 
